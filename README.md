@@ -1,5 +1,5 @@
 ![logo](https://github.com/Dushyant1122/username/blob/main/portfolio%20(1).gif)
-<h1 align="center">Hi 👋, My self Dushyant Jangid</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My self Dushyant Jangid</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 

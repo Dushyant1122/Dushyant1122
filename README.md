@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-two-iota-98.vercel.app/](https://portfolio-two-iota-98.vercel.app/)
+- 👨‍💻 All of my projects are available at [dushyant.one](https://dushyant.one/)
 
 - 📫 How to reach me **dushyantjangid1122@gmail.com**
 
